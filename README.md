@@ -37,13 +37,23 @@ Xây dựng mô hình Machine Learning dự báo doanh thu và hệ thống Dash
 * **Metric:** R² Score ~18.83% (Phản ánh thị trường game chịu ảnh hưởng lớn bởi xu hướng và marketing hơn là chỉ số kỹ thuật).
 
 ### 2. Power BI Dashboard System
-Hệ thống báo cáo được thiết kế theo luồng kể chuyện (Data Storytelling) với 4 màn hình chuyên sâu:
+Hệ thống báo cáo được thiết kế theo luồng kể chuyện (Data Storytelling) gồm 4 màn hình chi tiết:
 
-> **Thư viện Dashboard (Giao diện hệ thống):**
->
-> | 1. Market Overview | 2. Ubisoft Product Performance |
-> | :---: | :---: |
-> | <img src="images/market_overview.png" width="100%"> | <img src="images/product_performance.png" width="100%"> |
-> | *Tổng quan thị trường & Đối thủ* | *Hiệu suất các dòng game chủ lực* |
-> | **3. Strategic Insights** | **4. Conclusion** |
-> | <img src="images/strategic_insights.png" width="100%"> | <img src="images/conclusion.png"> width="10
+#### 📊 1. Market Overview
+> Tổng quan thị trường game toàn cầu, so sánh thị phần của Ubisoft với các đối thủ (EA, Activision...).
+<img src="images/market_overview.png" width="100%">
+<br>
+
+#### 📈 2. Ubisoft Product Performance
+> Phân tích sâu hiệu suất kinh doanh của các dòng game chủ lực (Assassin's Creed, Far Cry...).
+<img src="images/product_performance.png" width="100%">
+<br>
+
+#### 🧠 3. Strategic Insights
+> Phân tích hành vi người dùng, đánh giá (Critic/User Score) và các yếu tố ảnh hưởng đến doanh thu.
+<img src="images/strategic_insights.png" width="100%">
+<br>
+
+#### 🎯 4. Conclusion
+> Tổng kết các chỉ số chính (KPIs) và đưa ra khuyến nghị chiến lược cho ban quản trị.
+<img src="images/conclusion.png" width="100%">
