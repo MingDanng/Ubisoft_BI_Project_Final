@@ -46,4 +46,4 @@ Hệ thống báo cáo được thiết kế theo luồng kể chuyện (Data St
 > | <img src="images/market_overview.png" width="100%"> | <img src="images/product_performance.png" width="100%"> |
 > | *Tổng quan thị trường & Đối thủ* | *Hiệu suất các dòng game chủ lực* |
 > | **3. Strategic Insights** | **4. Conclusion** |
-> | <img src="images/strategic_insights.png" width="100%"> | <img src="images/conclusion.png" width="10
+> | <img src="images/strategic_insights.png" width="100%"> | <img src="images/conclusion.png"> width="10
